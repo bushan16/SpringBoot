@@ -1,0 +1,7 @@
+com\matilda\junitdemo\model\MatildaUser.class
+com\matilda\junitdemo\repository\MatildaUserRepository.class
+com\matilda\junitdemo\JunitdemoApplication.class
+com\matilda\junitdemo\entity\MatildaUserEntity.class
+com\matilda\junitdemo\controller\MatildaUserController.class
+com\matilda\junitdemo\model\MatildaUser$MatildaUserBuilder.class
+com\matilda\junitdemo\service\MatildaUserService.class

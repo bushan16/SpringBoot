@@ -1,0 +1,3 @@
+com\matilda\junitdemo\JunitdemoApplicationTests.class
+com\matilda\junitdemo\service\MatildaUserServiceTest.class
+com\matilda\junitdemo\controller\MatildaUserControllerTest.class
